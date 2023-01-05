@@ -56,7 +56,7 @@ public class Main {
                 case 3:
                     System.out.println("La estacion es otoño");
                     break;
-                case 5:
+                case 4:
                     System.out.println("La estacion es primavera");
                     break;
                 default:
